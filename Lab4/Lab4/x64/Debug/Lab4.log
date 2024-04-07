@@ -1,0 +1,6 @@
+﻿  Book.cpp
+  Lab3.cpp
+  Library.cpp
+C:\Users\josia\source\repos\Lab3\Lab3\Library.cpp(66,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab3.vcxproj -> C:\Users\josia\source\repos\Lab3\x64\Debug\Lab3.exe
